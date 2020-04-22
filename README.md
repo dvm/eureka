@@ -1,0 +1,2 @@
+# eureka
+Various interesting finds.
